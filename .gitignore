@@ -1,1 +1,4 @@
 .terraform/
+bfg.jar
+.DS_Store
+.gitattributes
